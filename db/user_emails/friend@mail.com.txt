@@ -1,0 +1,7 @@
+From: sangeet@iitjammu.ac.in
+To: friend@mail.com
+Date: 2025-04-07 01:39:32.645840
+Message:
+Hello bro,
+this is my first test mail!
+==================================================
